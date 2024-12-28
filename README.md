@@ -3,6 +3,7 @@ For example, suppose you download 'hello-0.c'  file in the 'Downloads' folder of
 To run this file, open the 'Downloads' folder in the terminal, and run
 
 cc hello-0.c
+
 or
 
 gcc hello-0.c
