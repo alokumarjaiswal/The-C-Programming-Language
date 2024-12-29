@@ -1,5 +1,5 @@
 Simply download the file you want to run.
-For example, suppose you download 'hello-0.c'  file in the 'Downloads' folder of your computer.
+For example, suppose you download 'hello-0.c' file in the 'Downloads' folder of your computer.
 To run this file, open the 'Downloads' folder in the terminal, and run
 
 cc hello-0.c
@@ -26,5 +26,21 @@ farenheit-celsius-0.c
 farenheit-celsius-1.c
 
 farenheit-celsius-2.c
+
+farenheit-celsius-3.c
+
+farenheit-celsius-4.c
+
+file-copying-0.c
+
+file-copying-1.c
+
+character-counting-0.c
+
+character-counting-1.c
+
+line-counting.c
+
+space-counting.c
 
 I will keep updating the sequence as I upload more files.

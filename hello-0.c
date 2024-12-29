@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* '#incude <stdio.h>' incudes the standard I/O library header file.
+/* In the beginning.
+    '#incude <stdio.h>' incudes the standard I/O library header file.
     .h represents a header file.
     This file contains the definition of 'printf' function.
     The 'printf' function stands for print formatted,
