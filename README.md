@@ -17,30 +17,38 @@ You should see the output in the terminal.
 
 The sequence is as follows:
 
-hello-0.c
+0-hello-0.c
 
-hello-1.c
+1-hello-1.c
 
-farenheit-celsius-0.c
+2-farenheit-celsius-0.c
 
-farenheit-celsius-1.c
+3-farenheit-celsius-1.c
 
-farenheit-celsius-2.c
+4-farenheit-celsius-2.c
 
-farenheit-celsius-3.c
+5-farenheit-celsius-3.c
 
-farenheit-celsius-4.c
+6-farenheit-celsius-4.c
 
-file-copying-0.c
+7-file-copying-0.c
 
-file-copying-1.c
+8-file-copying-1.c
 
-character-counting-0.c
+9-character-counting-0.c
 
-character-counting-1.c
+10-character-counting-1.c
 
-line-counting.c
+11-line-counting.c
 
-space-counting.c
+12-space-counting.c
+
+13-file-copying-2.c
+
+14-file-copying-3.c
+
+15-word-counting.c
+
+16-one-word-one-line.c
 
 I will keep updating the sequence as I upload more files.

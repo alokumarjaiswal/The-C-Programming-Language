@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/* Modify the temperature conversion program to print a heading above the table.
-    Write a program to print the corresponding Celsius to Farenheit table.
+/* Exercise 1-3.
+    Modify the temperature conversion program to print a heading above the
+   table. Exercise 1-4. Write a program to print the corresponding Celsius to
+   Farenheit table.
 */
 
 int main() {
