@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* This produces the same output as 'hello-0.c'.
+/* This produces the same output as '0-hello-0.c'.
     It showcases the nature of 'printf' function.
     It never supplies a newline automatically.
     It shows how escape sequences are used to represent
