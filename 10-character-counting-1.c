@@ -6,7 +6,7 @@
     to have a body.
 
     'double' makes it possible to cope with very big numbers.
-    '%f' is used for both 'float' and 'float'.
+    '%f' is used for both 'float' and 'double'.
  */
 
 int main() {
