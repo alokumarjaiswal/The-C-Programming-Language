@@ -51,4 +51,6 @@ The sequence is as follows:
 
 16-one-word-one-line.c
 
+17-arrays.c
+
 I will keep updating the sequence as I upload more files.
