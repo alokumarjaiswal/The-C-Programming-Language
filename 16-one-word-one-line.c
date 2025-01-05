@@ -3,7 +3,7 @@
 #define IN 1
 #define OUT 0
 
-/* Write a program that prints its input one word per line.
+/* Exercise 1-12. Write a program that prints its input one word per line.
     We start outside a word.
     We use an if-else construct to handle this problem.
     If a separator is encountered and we are inside a word,

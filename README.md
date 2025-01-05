@@ -8,7 +8,7 @@ or
 
 gcc 0-hello-0.c
 
-You will see a file such as 'a.exe' in the 'Downloads' folder.
+You will see a file such as 'a.exe' or 'a.out' in the 'Downloads' folder.
 Then execute,
 
 ./a.exe
@@ -16,7 +16,6 @@ Then execute,
 or
 
 ./a.out
-
 
 You should see the output in the terminal.
 
@@ -57,5 +56,11 @@ The sequence is as follows:
 16-one-word-one-line.c
 
 17-arrays.c
+
+18-horizontal-histogram-lw.c
+
+19-vertical-histogram-lw.c
+
+20-histogram-fc.c
 
 I will keep updating the sequence as I upload more files.

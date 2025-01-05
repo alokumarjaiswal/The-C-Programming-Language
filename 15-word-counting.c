@@ -30,7 +30,7 @@
                 One and only one of the two statements
                 associated with an if-else statement is performed.
 
-                How would you test the word count program?
+                Exercise 1-11. How would you test the word count program?
                 What kinds of input are most likely to uncover bugs if there are
    any?
 */
