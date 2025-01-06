@@ -63,4 +63,8 @@ The sequence is as follows:
 
 20-histogram-fc.c
 
+21-functions.c
+
+22-functions-farenheit-celsius.c
+
 I will keep updating the sequence as I upload more files.
