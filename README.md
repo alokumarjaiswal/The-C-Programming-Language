@@ -67,4 +67,14 @@ The sequence is as follows:
 
 22-functions-farenheit-celsius.c
 
+23-call-by-value.c
+
+24-character-arrays.c
+
+25-remove-trailing-blanks.c
+
+26-reverse-lines.c
+
+27-external-variables-&scope.c
+
 I will keep updating the sequence as I upload more files.

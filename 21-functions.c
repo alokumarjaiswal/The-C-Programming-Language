@@ -24,6 +24,7 @@ int power(int, int); // function prototype
    statement. return expression; A function need not return a value.
 */
 
+// test power function
 int main() {
   int i;
 
